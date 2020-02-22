@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb004681-9b31-41d7-b240-40c10a85e871" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/application.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/application.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environment.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/environment.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ember Template" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +50,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/integration/components/map" />
+      <recent name="$PROJECT_DIR$/app/components/map" />
+      <recent name="$PROJECT_DIR$/tests/integration/components" />
+      <recent name="$PROJECT_DIR$/app/components" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
@@ -52,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582319299557</updated>
-      <workItem from="1582319301160" duration="922000" />
+      <workItem from="1582319301160" duration="8522000" />
+      <workItem from="1582353239721" duration="9018000" />
     </task>
     <servers />
   </component>
@@ -60,13 +76,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="387" y="256" width="662" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582319568329">
+    <state x="387" y="256" width="662" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582321742216">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="387" y="256" width="662" height="387" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582319568329" />
+    <state x="387" y="256" width="662" height="387" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582321742216" />
+    <state x="311" y="220" width="813" height="459" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582321778404">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="311" y="220" width="813" height="459" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582321778404" />
+    <state x="436" y="164" width="563" height="571" key="RollbackChangesDialog" timestamp="1582326011330">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="436" y="164" width="563" height="571" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582326011330" />
     <state x="333" y="182" width="774" height="538" key="find.popup" timestamp="1582319544302">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="333" y="182" width="774" height="538" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1582319544302" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1582353947519">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582353947519" />
   </component>
 </project>
