@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb004681-9b31-41d7-b240-40c10a85e871" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/rental.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/rental.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/application.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/application.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environment.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/environment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/super-rentals-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/super-rentals-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/integration/components/rental-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/components/rental-test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582319299557</updated>
       <workItem from="1582319301160" duration="8522000" />
-      <workItem from="1582353239721" duration="9018000" />
+      <workItem from="1582353239721" duration="11082000" />
+      <workItem from="1582373440067" duration="8326000" />
     </task>
     <servers />
   </component>
